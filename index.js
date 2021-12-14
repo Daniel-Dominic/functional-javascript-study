@@ -6,6 +6,8 @@ var who = person.name;
 
 who;
 
-var person = {
-  name: 'John Doe',
-};
+person.name = 'Ms.Bianca';
+
+var who = person.name;
+
+who;
