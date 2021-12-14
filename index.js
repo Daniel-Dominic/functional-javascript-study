@@ -1,7 +1,11 @@
 var person = {};
 
-person.name = "John Doe";
+person.name = 'Daniel Dominic';
+
+var who = person.name;
+
+who;
 
 var person = {
-name : "John Doe"
+  name: 'John Doe',
 };
