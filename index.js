@@ -4,7 +4,7 @@ person.name = 'Ms. White';
 
 var who = person.name;
 
-who;
+var whos = who;
 
 typeof person === 'array';
 
