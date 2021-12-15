@@ -1,11 +1,10 @@
 var person = [];
 
-person.name = 'Ms. White';
+person.name = "Mrs. White"
 
 var who = person.name;
 
-var whos = who;
+person[0] = "I was not in Billards Room"
 
-typeof person === 'array';
-
-typeof person === 'object';
+console.log(who)
+console.log(person[0])
