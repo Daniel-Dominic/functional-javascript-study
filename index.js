@@ -1,10 +1,5 @@
-var person = [];
+function thankYou(str, num) {
+  return str;
+}
 
-person.name = "Mrs. White"
-
-var who = person.name;
-
-person[0] = "I was not in Billards Room"
-
-console.log(who)
-console.log(person[0])
+thankYou('Thank You', 100000);
